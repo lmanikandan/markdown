@@ -1,3 +1,14 @@
+# Calories
+- 3500 calories = 0.5kg
+- 7000 calories =   1kg
+
+
+# Goal Setting
+- Do the calculation of your target weight
+- Write your Target weight for Every Week
+- Take Before photos and Videos/Inch Measurements
+- Track Strength using mobile goals.
+
 # Macros
 
 ### Protein
@@ -62,4 +73,17 @@ Carbs           = 210 gram
 Cardio          = Burn 250/day
 Weight Loss     = 0.9kg per week
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
