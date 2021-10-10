@@ -73,7 +73,16 @@ Carbs           = 210 gram
 Cardio          = Burn 250/day
 Weight Loss     = 0.9kg per week
 ```
-
+# Tracking Calories for your Goal
+```
+Hit Protein goal first
+Hit Fat goal Second
+Reduce Protein
+Fill up Carbs
+Adjust macros according to your macros
+```
+# Setting up diet plan
+```
 
 
 
