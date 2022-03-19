@@ -9,7 +9,7 @@
 - Take Before photos and Videos/Inch Measurements
 - Track Strength using mobile goals.
 
-# Macros surya
+# Macros
 
 ### Protein
 ```
